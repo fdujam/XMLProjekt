@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Korisnici>
+<korisnik>
+	<korisnicko_ime>Admin</korisnicko_ime>
+	<password>Root</password>
+	<ime>Admin</ime>
+    <prezime>Istarator</prezime>
+	<JMBAG>123456789</JMBAG>
+	<adresa>Ilica 404</adresa>>
+	
+</korisnik>
+<korisnik>
+	<korisnicko_ime>Filip</korisnicko_ime>
+	<password>password</password>
+	<ime>Filip</ime>
+    <prezime>Dujam</prezime>
+	<JMBAG>123456789</JMBAG>
+	<adresa>Aleja Bolonje 27</adresa>>
+</korisnik>
+</Korisnici>
